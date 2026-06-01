@@ -1,4 +1,4 @@
-# SosApp
+# SOS Alert
 # Privacy Policy
 
 **Effective Date:** July 7, 2025  
@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy describes how SOS App ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application (the "App"). Our App allows trusted users to send priority notifications that can bypass silent mode and Do Not Disturb settings.
+This Privacy Policy describes how SOS Alert ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application (the "App"). Our App allows trusted users to send priority notifications that can bypass silent mode and Do Not Disturb settings.
 
 ## 2. Information We Collect
 
@@ -95,9 +95,9 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
-**Email:** [Your Email]  
+**Email:** GabyIawad@gmail.com 
 **Address:** [Your Address]  
-**Phone:** [Your Phone Number]
+**Phone:** +96170115103
 
 ## 13. Additional Information
 
